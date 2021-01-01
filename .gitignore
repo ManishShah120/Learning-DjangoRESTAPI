@@ -1,0 +1,8 @@
+# Virtual Env
+mdra/
+
+# Videos
+Videos/
+
+# Database
+**.sqlite3
