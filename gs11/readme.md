@@ -1,0 +1,1 @@
+Creating th exact API built in gs10, but made changes for the api to be used as a Browsable API
