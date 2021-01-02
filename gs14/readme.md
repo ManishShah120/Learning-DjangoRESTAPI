@@ -1,0 +1,1 @@
+# Generic APIView and Mixins But implementing all the crud operation in groups
