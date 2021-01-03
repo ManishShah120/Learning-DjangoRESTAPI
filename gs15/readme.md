@@ -1,0 +1,1 @@
+# Concrete View class
