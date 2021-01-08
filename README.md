@@ -23,7 +23,7 @@
 - [GS22 (Custom Permission)](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs2)
 - [GS23 (Authentication and Permission)(Function based Views)](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs23)
 - [GS24 (Token Authentication(How to Create Token using Admin panel and CLI))](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs24)
-- [GS25 ()(GET and CREATE TOKEN using CLI)](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs25)
+- [GS25 (GET and CREATE TOKEN using CLI)](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs25)
 - [GS26 (Token Authentication for Client/User)](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs26)
 - [GS27 (Token Authentication(Creation and generation of API Token with *signals*))](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs27)
 - [GS28 (Token Authentication(Uses with *httpi*))](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs28)
@@ -42,5 +42,6 @@
 - [GS41 (Relational Serilaizer)](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs41)
 - [GS42 (HyperLinked Model Serializer)](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs42)
 - [GS43 (Nested Serializer)](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/gs43)
+- [Project](https://github.com/ManishShah120/Learning-DjangoRESTAPI/tree/master/Project)
 
 *All this codes has been written while following this [Geeky Shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) tutorial Playlist*

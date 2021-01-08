@@ -1,0 +1,19 @@
+{% load static %}
+<!DOCTYPE <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>CRUD - ManishShah120</title>
+        <link rel="stylesheet" href="{% static 'enroll/css/bootstrap.css' %}">
+    </head>
+    <body>
+        <div class="container mt-5">
+            <h2 class="text-center alert alert-danger">Base Class-Based View ModelForm CRUD Project</h2>
+            {% block content%} {% endblock %}
+        </div>
+        <script src="{% static 'enroll/js/jquery.js' %}"></script>
+        <script src="{% static 'enroll/js/bootstrap.js' %}"></script>
+        <script src="{% static 'enroll/js/popper.js' %}"></script>
+    </body>
+</html>
